@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(232, 173, 95);
+}
+
+img {
+  width: 90vw;
+  height: 50vh;
+  margin: 80px;
+}
+
+ul {
+  margin: 20px;
+}/*# sourceMappingURL=style.css.map */
